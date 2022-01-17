@@ -79,7 +79,7 @@ export default function MailForm () {
 
             <Form.Group className="mb-3" controlId="formBasicEmail">
                 <Form.Label>Email Başlığı</Form.Label>
-                <Form.Control type="text" placeholder="ornek@example.com"/>
+                <Form.Control type="text" placeholder="Mail Başlığı"/>
             </Form.Group>
 
             <Form.Group className="mb-3" controlId="formBasicEmail">
