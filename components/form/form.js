@@ -69,7 +69,7 @@ export default function MailForm () {
 
             <Form.Group className="mb-3" controlId="formBasicEmail">
                 <Form.Label>Göderen Adı</Form.Label>
-                <Form.Control type="text" placeholder="Recep Tayyip ERDOĞAN"/>
+                <Form.Control type="text" placeholder="Samet Çetin"/>
             </Form.Group>
 
             <Form.Group className="mb-3" controlId="formBasicEmail">
